@@ -1,4 +1,4 @@
-Proof of concept about bpmn node module
+Proof of concept about bpmn node module. Based on https://github.com/bpmn-io/bpmn-js-examples/tree/master/modeler with some changes
 
 # bpmn-js Modeler Example
 
